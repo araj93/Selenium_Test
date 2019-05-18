@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="false">
+    <test name="account">
+        <classes>
+            <class name="com.stadiumgoods.qa.test.TestMyAccountPage" />
+        </classes>
+    </test>
+    <test name="browse">
+        <classes>
+            <class name="com.stadiumgoods.qa.test.TestProductDetailsPage" />
+        </classes>
+    </test>
+</suite>
